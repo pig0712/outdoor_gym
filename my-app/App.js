@@ -7,7 +7,7 @@ export default function App() {
   return (
     <WebView
       style={styles.container}
-      source={{ uri: 'https://naver.com' }}
+      source={{ uri: 'https://mapfit-web.web.app' }}
     />
   );
 }

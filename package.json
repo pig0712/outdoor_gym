@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "firebase": "^10.0.0"
+  },
+  "scripts": {
+    "build": "your-build-command"
   }
 }
